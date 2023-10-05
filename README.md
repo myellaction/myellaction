@@ -1,16 +1,28 @@
-### Hi there 👋
+##Пишу код на Python
+Зараз в пошуках проекту/стартапу для отримання практичного досвіду
 
-<!--
-**myellaction/myellaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Стек технологій:
+- Python 3
+- Django, Django Rest Framework
+- aiogram (розробка телеграм ботів)
+- asyncio, aiohttp, threading, multiprocessing 
+- BeautifulSoup4, Selenium
+- Linux (основи, необхідні для завантаження на сервер БД та проекту)
+- Oracle Cloud Infrastructure
+- SQL, SQLite, MySQL, PostgreSQL 
+- HTML, CSS, Sass, Bootstrap, Flexbox, Figma
 
-Here are some ideas to get you started:
+З прикладами робіт можна ознайомитись в репозиторіях. Деякі з них:
+1. Сайт на Джанго
+[Інтернет-магазин електротехніки](http://141.144.242.171/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Телеграм боти:
+- [бот піцерії](https://t.me/shop_python_bot)
+- [бот онлайн гри «Морський бій»](https://t.me/morskoi_boy_pythonbot) 
+- [бот - озвучувач тексту](https://t.me/speak_python_bot) 
+
+####Досвід роботи
+
+Розробка телеграм ботів - фріланс.
+
+
